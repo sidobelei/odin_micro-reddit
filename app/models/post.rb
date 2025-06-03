@@ -3,5 +3,6 @@ class Post < ApplicationRecord
   validates :link, presence: true
   validates :user_id, presence: true
 
+  has_many :comments
   belongs_to :user
 end

@@ -1,24 +1,6 @@
-# README
+# micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was to create a simple version of Reddit using Rails. There is no frontend as to keep things simple.
 
-Things you may want to cover:
+The main focus was to become more familiar with models using the Rails console.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
